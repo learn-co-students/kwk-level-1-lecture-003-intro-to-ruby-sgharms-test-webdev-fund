@@ -48,7 +48,7 @@ By the end of this lesson you will be able to build a small program that takes i
 
 All programs are just lines of text read by a computer. We're going to create a ruby file, which is just a file written in a text editor with the file extension `.rb`.
 
-**Have students Open [Hello, World]<!-- (https://github.com/learn-co-curriculum/kwk-l1-hello-world) --> in the IDE**
+**Have students Open [Hello, World](https://github.com/learn-co-curriculum/kwk-l1-hello-world) in the IDE**
 
 Now let's make a ruby file `touch hello_world.rb` and open it by double clicking it in the file navigator.
 
@@ -161,9 +161,9 @@ From `irb` demo:
 
 ### String Labs - 15-20 minutes
 
-Have students work on [String Interactive Practice]<!--(https://github.com/learn-co-curriculum/kwk-l1-strings-mini-lab)--> (This must be loaded in Learn) 
+Have students work on [String Interactive Practice](https://github.com/learn-co-curriculum/kwk-l1-strings-mini-lab) (This must be loaded in Learn) 
 
-Students can also begin work on [Silly Strings]<!-- (https://github.com/learn-co-curriculum/kwk-l1-silly_string/) -->
+Students can also begin work on [Silly Strings](https://github.com/learn-co-curriculum/kwk-l1-silly_string/)
 
 Review String Interactive Practice with students, solve the start of Silly Strings so that during lab time they have already started.
 
@@ -199,7 +199,7 @@ We can convert  data types with methods called `to_i`, `to_f`, and `to_s`
 100.00.to_i
 ```
 
-***Let students do math with floats and convert diff data types in pairs***
+***Let students do math with floats and convert different data types in pairs***
 
 ## Variables
 
@@ -240,9 +240,9 @@ ERRORS AREN'T BAD!!!!! they're breadcrumbs to your problem. Ruby is telling us e
 
 ### Variables Lab - 10 minutes
 
-Have them do [Variable Interactive Practice]<!-- (https://github.com/learn-co-curriculum/kwk-l1-variables-mini-lab) --> in Learn.
+Have them do [Variable Practice Quiz](https://github.com/learn-co-curriculum/kwk-l1-variables-mini-lab) in Learn (This quiz must be loaded in Learn)
 
-Then have them work on [Variable Assignment Lab]<!-- (https://github.com/learn-co-curriculum/kwk-l1-variable-assignment) -->
+Then have them work on [Variable Assignment Lab](https://github.com/learn-co-curriculum/kwk-l1-variable-assignment)
 
 ## Interpolation
 
@@ -272,7 +272,7 @@ puts "What is your name?"
 gets
 ```
 
-Run the program. Notice terminal hangs to let us type in input, but then it doesn't do anything with it. we need to be able to persist/store our input. ***What have we learned about that lets us store data?*** variables!! 
+Run the program. Notice terminal hangs to let us type in input, but then it doesn't do anything with it. we need to be able to persist/store our input. ***What have we learned about that lets us store data?*** Variables!! 
 
 ```ruby
 puts "What is your name?" 
@@ -290,6 +290,5 @@ Web applications follow and input-output pattern. You input a comment to the fun
 
 ## Labs to Work On
 
-+ [Messy Macarena]<!-- (https://github.com/learn-co-curriculum/kwk-l1-messy_macarena_lab_ruby) -->
-+ [User Input Mini Lab]<!-- (https://www.github.com/learn-co-curriculum/kwk-l1-user-input-mini-lab) -->
-+ [Met Gala Invitation]<!-- (https://www.github.com/learn-co-curriculum/kwk-l1-invitation-maker-lab) -->
++ [Messy Macarena](https://github.com/learn-co-curriculum/kwk-l1-messy_macarena_lab_ruby) 
++ [User Input Mini Lab](https://www.github.com/learn-co-curriculum/kwk-l1-user-input-mini-lab) 
