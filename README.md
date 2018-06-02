@@ -288,7 +288,4 @@ Web applications follow and input-output pattern. You input a comment to the fun
 
 `gets` takes in all information as a string and with the newline-character at the end of it. add `.strip` to get rid of the newline.
 
-## Labs to Work On
-
-+ [Messy Macarena](https://github.com/learn-co-curriculum/kwk-l1-messy_macarena_lab_ruby) 
-+ [User Input Mini Lab](https://www.github.com/learn-co-curriculum/kwk-l1-user-input-mini-lab) 
+<p class='util--hide'>View <a href='https://learn.co/lessons/kwk-level-1-lecture-003-intro-to-ruby'>Lecture 003: Intro To Ruby</a> on Learn.co and start learning to code for free.</p>
